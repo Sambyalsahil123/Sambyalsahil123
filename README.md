@@ -5,7 +5,7 @@
 ======================================================================= -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Sambyalsahil123/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Sambyalsahil123&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -42,13 +42,23 @@
 
 ```typescript
 const sahil = {
-  role        : "Full-Stack Developer",
-  experience  : "Experienced",
-  focus       : ["SaaS Platforms", "AI-Powered Apps", "Multi-Tenant Architectures"],
-  currentWork : "Building AI-driven SaaS products with Next.js 16 + TypeScript",
-  learning    : ["System Design at Scale", "Advanced ML Pipelines", "LLM Fine-tuning"],
-  askMeAbout  : ["Next.js", "TypeScript", "AI/ML Integration", "ElasticSearch", "SEO"],
-  funFact     : "I automate everything I do more than twice 🤖",
+  role: "Full-Stack Developer",
+  experience: "Experienced",
+  focus: ["SaaS Platforms", "AI-Powered Apps", "Multi-Tenant Architectures"],
+  currentWork: "Building AI-driven SaaS products with Next.js 16 + TypeScript",
+  learning: [
+    "System Design at Scale",
+    "Advanced ML Pipelines",
+    "LLM Fine-tuning",
+  ],
+  askMeAbout: [
+    "Next.js",
+    "TypeScript",
+    "AI/ML Integration",
+    "ElasticSearch",
+    "SEO",
+  ],
+  funFact: "I automate everything I do more than twice 🤖",
 };
 ```
 
@@ -67,6 +77,7 @@ const sahil = {
 ## 🛠️ Tech Stack & Skills
 
 ### 🎨 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,scss" />
 </p>
@@ -79,6 +90,7 @@ const sahil = {
 </p>
 
 ### ⚙️ Backend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,graphql" />
   <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" />
@@ -87,6 +99,7 @@ const sahil = {
 </p>
 
 ### 🗄️ Databases & Search
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
@@ -95,6 +108,7 @@ const sahil = {
 </p>
 
 ### 🤖 AI / ML / Automation
+
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
@@ -107,6 +121,7 @@ const sahil = {
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,vercel,docker,git,github,vscode,postman,linux" />
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
@@ -119,15 +134,15 @@ const sahil = {
 
 ## 💼 What I Build
 
-| Domain | Technologies |
-|--------|-------------|
-| **SaaS Platforms** | Next.js 16, TypeScript, Stripe, multi-tenant DB, role-based auth |
-| **AI-Powered Apps** | OpenAI API, LangChain, vector DBs, chatbots, AI workflows |
-| **AI Search** | Elasticsearch, semantic search, vector embeddings, relevance tuning |
-| **Multi-Tenant Websites** | Row-level security, sub-domain routing, isolated workspaces |
-| **SEO-Optimized Sites** | Next.js SSR/ISR, Core Web Vitals, structured data, sitemaps |
-| **E-Commerce** | Product catalogs, cart, checkout, payments, order management |
-| **Automation Pipelines** | Background jobs, webhooks, cron tasks, AI data processing |
+| Domain                    | Technologies                                                        |
+| ------------------------- | ------------------------------------------------------------------- |
+| **SaaS Platforms**        | Next.js 16, TypeScript, Stripe, multi-tenant DB, role-based auth    |
+| **AI-Powered Apps**       | OpenAI API, LangChain, vector DBs, chatbots, AI workflows           |
+| **AI Search**             | Elasticsearch, semantic search, vector embeddings, relevance tuning |
+| **Multi-Tenant Websites** | Row-level security, sub-domain routing, isolated workspaces         |
+| **SEO-Optimized Sites**   | Next.js SSR/ISR, Core Web Vitals, structured data, sitemaps         |
+| **E-Commerce**            | Product catalogs, cart, checkout, payments, order management        |
+| **Automation Pipelines**  | Background jobs, webhooks, cron tasks, AI data processing           |
 
 <br/>
 <hr/>
@@ -135,11 +150,15 @@ const sahil = {
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sambyalsahil123&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="390" src="https://streak-stats.demolab.com/?user=Sambyalsahil123&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sambyalsahil123&theme=tokyonight" width="100%" alt="Profile Summary" />
 </div>
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambyalsahil123&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sambyalsahil123&theme=tokyonight" width="32%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sambyalsahil123&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sambyalsahil123&theme=tokyonight" width="32%" alt="Stats" />
+</div>
+<div align="center">
+  <img width="440" src="https://streak-stats.demolab.com/?user=Sambyalsahil123&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak" />
 </div>
 
 <br/>
@@ -148,7 +167,7 @@ const sahil = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sambyalsahil123&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sambyalsahil123&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies" />
 </div>
 
 <br/>
@@ -163,8 +182,6 @@ const sahil = {
     <img alt="github-snake" src="https://raw.githubusercontent.com/Sambyalsahil123/Sambyalsahil123/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> **Note:** The snake animation requires a GitHub Actions workflow. See `docs/GITHUB_PROFILE_GUIDE.md` for setup.
 
 <br/>
 <hr/>
