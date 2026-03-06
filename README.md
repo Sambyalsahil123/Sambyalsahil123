@@ -13,7 +13,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=4493F8&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Sahil+Sambyal;Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+TypeScript+%7C+AI+Builder;SaaS+%7C+Multi-Tenant+%7C+ElasticSearch;Building+Intelligent+Web+Apps+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4493F8&center=true&vCenter=true&width=800&height=60&lines=Hi+There!+%F0%9F%91%8B+I'm+Sahil+Sambyal;Full-Stack+Developer+%F0%9F%9A%80;Next.js+%7C+TypeScript+%7C+AI+Builder;SaaS+%7C+Multi-Tenant+%7C+ElasticSearch;Building+Intelligent+Web+Apps+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
 <p align="center">
