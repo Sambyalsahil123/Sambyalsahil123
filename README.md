@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sambyalsahil123/Sambyalsahil123/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sahil%20Sambyal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20SaaS%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <h1 align="center">
