@@ -136,7 +136,7 @@ const sahil = {
 
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Sambyalsahil123&theme=tokyonight&show_icons=true&rank_icon=github&count_private=true&locale=en" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Sambyalsahil123&theme=tokyonight&border_radius=10&locale=en" alt="Streak" />
+  <img width="400" src="https://streak-stats.demolab.com/?user=Sambyalsahil123&theme=tokyonight&border_radius=10&locale=en" alt="Streak" />
 </div>
 <div align="center">
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambyalsahil123&theme=tokyonight&layout=donut&langs_count=8&border_radius=10&locale=en" alt="Top Languages" />
@@ -148,7 +148,7 @@ const sahil = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sambyalsahil123&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sambyalsahil123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
 </div>
 
 <br/>
