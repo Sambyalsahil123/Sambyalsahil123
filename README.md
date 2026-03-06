@@ -1,6 +1,3 @@
-# Copy this entire content into your Sambyalsahil123/Sambyalsahil123 repo's README.md
-# Then replace YOUR_EMAIL, YOUR_LINKEDIN, and upload a banner image named banner.png
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Sambyalsahil123/count.svg" alt="Visitor Count" />
 </div>
