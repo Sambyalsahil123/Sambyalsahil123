@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sahil%20Sambyal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20SaaS%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Sambyalsahil123/Sambyalsahil123/main/banner.png" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">
@@ -68,7 +68,7 @@ const sahil = {
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,sass" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,scss" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
@@ -135,11 +135,11 @@ const sahil = {
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Sambyalsahil123&theme=tokyonight&show_icons=true&rank_icon=github&count_private=true&locale=en" alt="GitHub Stats" />
-  <img width="400" src="https://streak-stats.demolab.com/?user=Sambyalsahil123&theme=tokyonight&border_radius=10&locale=en" alt="Streak" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Sambyalsahil123&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=Sambyalsahil123&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak" />
 </div>
 <div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambyalsahil123&theme=tokyonight&layout=donut&langs_count=8&border_radius=10&locale=en" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambyalsahil123&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -148,7 +148,7 @@ const sahil = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sambyalsahil123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sambyalsahil123&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies" />
 </div>
 
 <br/>
