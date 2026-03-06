@@ -164,10 +164,10 @@ const sahil = {
 <br/>
 <hr/>
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sambyalsahil123&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambyalsahil123&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
